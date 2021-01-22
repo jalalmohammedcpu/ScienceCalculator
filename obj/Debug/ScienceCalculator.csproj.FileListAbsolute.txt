@@ -1,0 +1,8 @@
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\bin\Debug\ScienceCalculator.exe.config
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\obj\Debug\ScienceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\obj\Debug\ScienceCalculator.Properties.Resources.resources
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\obj\Debug\ScienceCalculator.csproj.GenerateResource.Cache
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\bin\Debug\ScienceCalculator.exe
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\bin\Debug\ScienceCalculator.pdb
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\obj\Debug\ScienceCalculator.exe
+C:\Users\Eoin\Documents\Visual Studio 2013\Projects\RandomSolutions\ScienceCalculator\ScienceCalculator\obj\Debug\ScienceCalculator.pdb
